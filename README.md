@@ -9,7 +9,7 @@ The data is sourced from a data challenge from Mediacorp's Commerce Team, which 
 Before we go into more details, here is a quick look at the dashboard:
 <img width="1201" height="672" alt="image" src="https://github.com/user-attachments/assets/5e5baa2c-c7b9-475e-a74f-3e9ccdf8ea74" />
 
-You can find the data [here]([Monthly_reports](https://github.com/ng-anhduong/mediacorp_sales_analysis/blob/main/Monthly_reports.zip)), and the dashboard file [here](https://github.com/ng-anhduong/mediacorp_sales_analysis/blob/main/Mediacorp_dashboard.xlsm).
+You can find the data [here](https://github.com/ng-anhduong/mediacorp_sales_analysis/blob/main/Monthly_reports.zip), and the dashboard file [here](https://github.com/ng-anhduong/mediacorp_sales_analysis/blob/main/Mediacorp_dashboard.xlsm).
 
 ### A. INSTRUCTIONS ON USING THE DASHBOARD
 
