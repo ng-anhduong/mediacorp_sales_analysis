@@ -1,4 +1,4 @@
-# mediacorp_sales_analysis
+# Mediacorp Sales Analysis
 
 Mediacorp is Singapore’s national media network and largest content creator, engaging 99% of the population weekly across four languages on digital, TV, radio, and social platforms. In this repository, I created an Excel-based dashboard that consolidates monthly sales reports and turns them into actionable insights for brands and merchandisers.
 
@@ -11,7 +11,7 @@ Before we go into more details, here is a quick look at the dashboard:
 
 You can find the data [here](https://github.com/ng-anhduong/mediacorp_sales_analysis/blob/main/Monthly_reports.zip), and the dashboard file [here](https://github.com/ng-anhduong/mediacorp_sales_analysis/blob/main/Mediacorp_dashboard.xlsm).
 
-### A. INSTRUCTIONS ON USING THE DASHBOARD
+## A. INSTRUCTIONS ON USING THE DASHBOARD
 
 1. Download files:
 - An .xlsm file "Mediacorp_dashboard" which contains the merged data, pivot tables, and the dashboard
@@ -26,7 +26,7 @@ Future reports must:
 - Data will auto update upon opening the file, and every 30 minutes while the file is opened
 - Users can go to DASHBOARD Sheet, click the top right Refresh button (3 circular arrows) to update the pivots
 
-### B. INSIGHTS FROM DATA
+## B. INSIGHTS FROM DATA
 
 After some data handling, analysis, and dashboard making, here are some insights for sales trends from Nov to Dec 2024:
 
@@ -48,7 +48,7 @@ After some data handling, analysis, and dashboard making, here are some insights
 
 5. By channel: performance is very similar across CCTR and ONLE; ONLE edges ahead on net qty (2516 vs 2488)
 
-### C. RECOMMENDATIONS
+## C. RECOMMENDATIONS
 
 1. Act on the three “Top 5” lists
 - GMV leaders: run cross-sell bundles and cart-value boosters (e.g., “Complete the set” accessory bundles)
